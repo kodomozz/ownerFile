@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":[],"mappings":";;;;;;AAAA,IAAM;AAAA;AAAA;AAAA;;AAAA;AAAA;AAAA,mCACW;AACb,aAAO,GAAG,IAAV;AACD;AAHG;;AAAA;AAAA,GAAN","file":"compile.js","sourcesContent":["const MyClass = class Me {\r\n  getClassName() {\r\n    return Me.name;\r\n  }\r\n};"]}
